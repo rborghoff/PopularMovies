@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="fill_in">The most popular movies of: </string>
+    <string name="year">Jaar</string>
+    <string name="submit">Submit</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="release">Release: %1s</string>
+    <string name="overview">Overview</string>
+    <string name="dummy_title">Dummy Title</string>
+    <string name="dummy_content">Dummy Content</string>
+    <string name="rating">Rating</string>
+</resources>
